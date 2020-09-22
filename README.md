@@ -35,6 +35,7 @@ gitclone tonaalt/oled or download from links, and unzip.
 add this as last line:
 
 <code> @reboot python /bin/your_script.py &</code>
+
 The reboot machine, and everything should work.
 
 <code> sudo reboot</code>
